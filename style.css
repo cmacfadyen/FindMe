@@ -1,0 +1,36 @@
+body{
+	background-color: black;
+}
+p{
+  font-size: 24px;
+	font-family: "Courier New", Courier, monospace;
+	color: white;
+}
+.grad_back{
+	background: "/images/blotter.jpg";
+	background-repeat: repeat;
+}
+
+.upper-left{
+	position:fixed;
+	left: 20px;
+	top: 5px;
+}
+.centered{
+	margin:auto;
+	width:50%;
+}
+.numkey{
+	opacity:0.0;
+	cursor: pointer;
+}
+
+#phone-number{
+	font-family: monospace;
+	color: yellow;
+	font-size: 4em;
+	border-color: white;
+	border-style: inset;
+	border-width: 3px;
+
+}
